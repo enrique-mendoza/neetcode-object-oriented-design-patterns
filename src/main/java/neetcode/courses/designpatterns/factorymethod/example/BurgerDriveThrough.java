@@ -1,10 +1,10 @@
-package neetcode.courses.designpatterns.factory.example;
+package neetcode.courses.designpatterns.factorymethod.example;
 
-import neetcode.courses.designpatterns.factory.example.creators.BurgerStore;
-import neetcode.courses.designpatterns.factory.example.creators.CheeseBurgerStore;
-import neetcode.courses.designpatterns.factory.example.creators.VeganBurgerStore;
-import neetcode.courses.designpatterns.factory.example.enums.Burgers;
-import neetcode.courses.designpatterns.factory.example.products.Burger;
+import neetcode.courses.designpatterns.factorymethod.example.creators.BurgerStore;
+import neetcode.courses.designpatterns.factorymethod.example.creators.CheeseBurgerStore;
+import neetcode.courses.designpatterns.factorymethod.example.creators.VeganBurgerStore;
+import neetcode.courses.designpatterns.factorymethod.example.enums.Burgers;
+import neetcode.courses.designpatterns.factorymethod.example.products.Burger;
 
 public class BurgerDriveThrough {
 

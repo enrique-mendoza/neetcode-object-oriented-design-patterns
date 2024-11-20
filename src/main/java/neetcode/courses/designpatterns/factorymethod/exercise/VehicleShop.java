@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.factory.exercise;
+package neetcode.courses.designpatterns.factorymethod.exercise;
 
 public class VehicleShop {
 

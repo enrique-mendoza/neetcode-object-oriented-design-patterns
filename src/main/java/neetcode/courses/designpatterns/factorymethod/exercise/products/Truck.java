@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.factory.exercise.products;
+package neetcode.courses.designpatterns.factorymethod.exercise.products;
 
 public class Truck implements Vehicle {
 

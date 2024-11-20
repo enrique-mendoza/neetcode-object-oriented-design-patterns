@@ -1,7 +1,7 @@
-package neetcode.courses.designpatterns.factory.example.creators;
+package neetcode.courses.designpatterns.factorymethod.example.creators;
 
-import neetcode.courses.designpatterns.factory.example.products.Burger;
-import neetcode.courses.designpatterns.factory.example.enums.Burgers;
+import neetcode.courses.designpatterns.factorymethod.example.products.Burger;
+import neetcode.courses.designpatterns.factorymethod.example.enums.Burgers;
 
 public abstract class BurgerStore {
 
