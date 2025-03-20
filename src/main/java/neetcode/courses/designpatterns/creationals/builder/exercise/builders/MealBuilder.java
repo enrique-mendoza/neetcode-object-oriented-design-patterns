@@ -1,6 +1,6 @@
-package neetcode.courses.designpatterns.builder.exercise.builders;
+package neetcode.courses.designpatterns.creationals.builder.exercise.builders;
 
-import neetcode.courses.designpatterns.builder.exercise.products.Meal;
+import neetcode.courses.designpatterns.creationals.builder.exercise.products.Meal;
 
 public class MealBuilder {
 

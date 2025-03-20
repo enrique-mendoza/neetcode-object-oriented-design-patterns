@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.factorymethod.example.enums;
+package neetcode.courses.designpatterns.creationals.factorymethod.example.enums;
 
 public enum Burgers {
 

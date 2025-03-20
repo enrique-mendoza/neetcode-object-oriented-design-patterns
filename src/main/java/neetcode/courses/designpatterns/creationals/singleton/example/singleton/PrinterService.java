@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.singleton.example.singleton;
+package neetcode.courses.designpatterns.creationals.singleton.example.singleton;
 
 public class PrinterService {
 

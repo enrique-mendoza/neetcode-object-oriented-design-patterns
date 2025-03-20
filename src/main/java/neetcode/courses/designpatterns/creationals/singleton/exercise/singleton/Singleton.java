@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.singleton.exercise.singleton;
+package neetcode.courses.designpatterns.creationals.singleton.exercise.singleton;
 
 public class Singleton {
 

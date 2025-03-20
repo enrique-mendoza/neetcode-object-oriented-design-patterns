@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.builder.exercise.products;
+package neetcode.courses.designpatterns.creationals.builder.exercise.products;
 
 public class Meal {
 

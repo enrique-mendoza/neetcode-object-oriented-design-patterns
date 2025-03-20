@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.builder.example.enums;
+package neetcode.courses.designpatterns.creationals.builder.example.enums;
 
 public enum Main {
 

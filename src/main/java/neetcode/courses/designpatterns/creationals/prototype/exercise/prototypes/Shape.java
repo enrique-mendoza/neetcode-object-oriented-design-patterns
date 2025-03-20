@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.prototype.exercise.prototypes;
+package neetcode.courses.designpatterns.creationals.prototype.exercise.prototypes;
 
 public interface Shape {
 

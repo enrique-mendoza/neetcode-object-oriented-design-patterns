@@ -1,9 +1,9 @@
-package neetcode.courses.designpatterns.builder.example;
+package neetcode.courses.designpatterns.creationals.builder.example;
 
-import neetcode.courses.designpatterns.builder.example.builders.HealthyMealBuilder;
-import neetcode.courses.designpatterns.builder.example.builders.VeganMealBuilder;
-import neetcode.courses.designpatterns.builder.example.directors.Director;
-import neetcode.courses.designpatterns.builder.example.products.Meal;
+import neetcode.courses.designpatterns.creationals.builder.example.builders.HealthyMealBuilder;
+import neetcode.courses.designpatterns.creationals.builder.example.builders.VeganMealBuilder;
+import neetcode.courses.designpatterns.creationals.builder.example.directors.Director;
+import neetcode.courses.designpatterns.creationals.builder.example.products.Meal;
 
 public class Client {
 

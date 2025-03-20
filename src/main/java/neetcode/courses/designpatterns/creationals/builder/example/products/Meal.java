@@ -1,9 +1,9 @@
-package neetcode.courses.designpatterns.builder.example.products;
+package neetcode.courses.designpatterns.creationals.builder.example.products;
 
-import neetcode.courses.designpatterns.builder.example.enums.Dessert;
-import neetcode.courses.designpatterns.builder.example.enums.Drink;
-import neetcode.courses.designpatterns.builder.example.enums.Main;
-import neetcode.courses.designpatterns.builder.example.enums.Starter;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Dessert;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Drink;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Main;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Starter;
 
 public class Meal {
 

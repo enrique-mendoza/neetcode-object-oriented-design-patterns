@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.factorymethod.example.products;
+package neetcode.courses.designpatterns.creationals.factorymethod.example.products;
 
 public class DeluxeVeganBurger extends Burger {
 

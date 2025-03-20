@@ -1,6 +1,6 @@
-package neetcode.courses.designpatterns.prototype.exercise.concretes;
+package neetcode.courses.designpatterns.creationals.prototype.exercise.concretes;
 
-import neetcode.courses.designpatterns.prototype.exercise.prototypes.Shape;
+import neetcode.courses.designpatterns.creationals.prototype.exercise.prototypes.Shape;
 
 public class Square implements Shape {
 

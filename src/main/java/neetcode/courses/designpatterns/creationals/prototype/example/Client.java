@@ -1,10 +1,10 @@
-package neetcode.courses.designpatterns.prototype.example;
+package neetcode.courses.designpatterns.creationals.prototype.example;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import neetcode.courses.designpatterns.prototype.example.concretes.Document;
-import neetcode.courses.designpatterns.prototype.example.prototypes.DocumentPrototype;
+import neetcode.courses.designpatterns.creationals.prototype.example.concretes.Document;
+import neetcode.courses.designpatterns.creationals.prototype.example.prototypes.DocumentPrototype;
 
 public class Client {
 

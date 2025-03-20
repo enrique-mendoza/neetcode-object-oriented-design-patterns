@@ -1,9 +1,9 @@
-package neetcode.courses.designpatterns.factorymethod.example.creators;
+package neetcode.courses.designpatterns.creationals.factorymethod.example.creators;
 
-import neetcode.courses.designpatterns.factorymethod.example.products.Burger;
-import neetcode.courses.designpatterns.factorymethod.example.enums.Burgers;
-import neetcode.courses.designpatterns.factorymethod.example.products.DeluxeVeganBurger;
-import neetcode.courses.designpatterns.factorymethod.example.products.VeganBurger;
+import neetcode.courses.designpatterns.creationals.factorymethod.example.products.Burger;
+import neetcode.courses.designpatterns.creationals.factorymethod.example.enums.Burgers;
+import neetcode.courses.designpatterns.creationals.factorymethod.example.products.DeluxeVeganBurger;
+import neetcode.courses.designpatterns.creationals.factorymethod.example.products.VeganBurger;
 
 public class VeganBurgerStore extends BurgerStore {
 

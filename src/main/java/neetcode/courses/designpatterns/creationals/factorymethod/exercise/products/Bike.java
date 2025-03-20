@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.factorymethod.exercise.products;
+package neetcode.courses.designpatterns.creationals.factorymethod.exercise.products;
 
 public class Bike implements Vehicle {
 

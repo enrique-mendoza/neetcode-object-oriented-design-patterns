@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.builder.example.builders;
+package neetcode.courses.designpatterns.creationals.builder.example.builders;
 
 public interface Builder {
 

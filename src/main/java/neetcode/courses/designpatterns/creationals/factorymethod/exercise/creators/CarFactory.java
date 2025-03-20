@@ -1,7 +1,7 @@
-package neetcode.courses.designpatterns.factorymethod.exercise.creators;
+package neetcode.courses.designpatterns.creationals.factorymethod.exercise.creators;
 
-import neetcode.courses.designpatterns.factorymethod.exercise.products.Car;
-import neetcode.courses.designpatterns.factorymethod.exercise.products.Vehicle;
+import neetcode.courses.designpatterns.creationals.factorymethod.exercise.products.Car;
+import neetcode.courses.designpatterns.creationals.factorymethod.exercise.products.Vehicle;
 
 public class CarFactory extends VehicleFactory {
 

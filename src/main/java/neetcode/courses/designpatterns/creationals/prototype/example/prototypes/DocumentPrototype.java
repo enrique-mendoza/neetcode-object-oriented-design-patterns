@@ -1,4 +1,4 @@
-package neetcode.courses.designpatterns.prototype.example.prototypes;
+package neetcode.courses.designpatterns.creationals.prototype.example.prototypes;
 
 public interface DocumentPrototype {
 

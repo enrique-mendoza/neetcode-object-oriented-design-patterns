@@ -1,6 +1,6 @@
-package neetcode.courses.designpatterns.singleton.exercise;
+package neetcode.courses.designpatterns.creationals.singleton.exercise;
 
-import neetcode.courses.designpatterns.singleton.exercise.singleton.Singleton;
+import neetcode.courses.designpatterns.creationals.singleton.exercise.singleton.Singleton;
 
 public class Client {
 

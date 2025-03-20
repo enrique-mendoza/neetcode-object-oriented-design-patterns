@@ -1,9 +1,9 @@
-package neetcode.courses.designpatterns.prototype.exercise;
+package neetcode.courses.designpatterns.creationals.prototype.exercise;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import neetcode.courses.designpatterns.prototype.exercise.prototypes.Shape;
+import neetcode.courses.designpatterns.creationals.prototype.exercise.prototypes.Shape;
 
 public class Test {
 

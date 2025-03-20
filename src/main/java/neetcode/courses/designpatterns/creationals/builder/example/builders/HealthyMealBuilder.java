@@ -1,10 +1,10 @@
-package neetcode.courses.designpatterns.builder.example.builders;
+package neetcode.courses.designpatterns.creationals.builder.example.builders;
 
-import neetcode.courses.designpatterns.builder.example.enums.Dessert;
-import neetcode.courses.designpatterns.builder.example.enums.Drink;
-import neetcode.courses.designpatterns.builder.example.enums.Main;
-import neetcode.courses.designpatterns.builder.example.enums.Starter;
-import neetcode.courses.designpatterns.builder.example.products.Meal;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Dessert;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Drink;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Main;
+import neetcode.courses.designpatterns.creationals.builder.example.enums.Starter;
+import neetcode.courses.designpatterns.creationals.builder.example.products.Meal;
 
 public class HealthyMealBuilder implements Builder {
 

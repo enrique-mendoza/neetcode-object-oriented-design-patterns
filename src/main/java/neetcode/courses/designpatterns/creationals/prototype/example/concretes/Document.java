@@ -1,9 +1,9 @@
-package neetcode.courses.designpatterns.prototype.example.concretes;
+package neetcode.courses.designpatterns.creationals.prototype.example.concretes;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import neetcode.courses.designpatterns.prototype.example.prototypes.DocumentPrototype;
+import neetcode.courses.designpatterns.creationals.prototype.example.prototypes.DocumentPrototype;
 
 public class Document implements DocumentPrototype {
 

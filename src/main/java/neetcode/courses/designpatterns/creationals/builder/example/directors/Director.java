@@ -1,6 +1,6 @@
-package neetcode.courses.designpatterns.builder.example.directors;
+package neetcode.courses.designpatterns.creationals.builder.example.directors;
 
-import neetcode.courses.designpatterns.builder.example.builders.Builder;
+import neetcode.courses.designpatterns.creationals.builder.example.builders.Builder;
 
 public class Director {
 
